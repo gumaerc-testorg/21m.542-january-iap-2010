@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Classroom Sessions
+parent_type: CourseSection
+related_resources_text: "\_Presentation slides ([PDF](resources/mit21m_542iap10_proj_js)){{<\
+  \ sup \"#\" >}}"
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 12: Student project presentation: "Notation and Time in Music"'
 uid: ca8c8d39-268f-7f12-9613-2623ccdf2bf6

@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/ad4d99807339740e13c400bfd5f97d23_MIT21M_542IAP10class12_th.jpg
+file: /media/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/ad4d99807339740e13c400bfd5f97d23_MIT21M_542IAP10class12_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: MIT21M_542IAP10class12_th.jpg
 uid: ad4d9980-7339-740e-13c4-00bfd5f97d23

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Forums and Concerts
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Time as the Subject and Substance
 uid: 5c0eceb6-17ef-d4f9-dfd9-7c3355dbd8f9

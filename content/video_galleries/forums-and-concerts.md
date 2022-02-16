@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Forums and Concerts
 uid: c69e6ceb-7d9d-74a5-dcbd-92abd28a8ce9
 videos:

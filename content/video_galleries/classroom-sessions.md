@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Classroom Sessions
 uid: beb0121e-49cc-4d84-9e80-e5ef2dc34c75
 videos:

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c7502bbb-e093-ce34-0b30-a8f034a67883
 ---
@@ -34,10 +37,10 @@ Please submit your responses to the forums and the concerts no later than the fo
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 STUDENTS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 FORUM & CONCERT RESPONSES
 {{< thclose >}}
 
