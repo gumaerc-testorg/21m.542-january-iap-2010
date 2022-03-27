@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Forums and Concerts
 parent_type: CourseSection
+parent_uid: c69e6ceb-7d9d-74a5-dcbd-92abd28a8ce9
 resourcetype: Document
 title: MIT21M_542IAP10_for_panel.pdf
 uid: 420d8bb0-4067-c0ea-27c2-d44096f2e14b

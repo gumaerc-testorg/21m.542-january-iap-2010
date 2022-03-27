@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Classroom Sessions
 parent_type: CourseSection
+parent_uid: beb0121e-49cc-4d84-9e80-e5ef2dc34c75
 resourcetype: Document
 title: MIT21M_542IAP10_c8_ariza.pdf
 uid: 338aff91-a50c-f939-d785-7fe9ac4aec13

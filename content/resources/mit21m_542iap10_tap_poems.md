@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Classroom Sessions
 parent_type: CourseSection
+parent_uid: beb0121e-49cc-4d84-9e80-e5ef2dc34c75
 resourcetype: Document
 title: MIT21M_542IAP10_tap_poems.pdf
 uid: 9060c074-f5e3-28d4-5a4d-a7f2f8c1d0af

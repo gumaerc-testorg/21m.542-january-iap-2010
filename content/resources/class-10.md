@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 10: Time and structure in a film score for D. W. Griffith''s Ramona
   (1910)'
 uid: 4f757301-1a04-4c6e-2fca-ebfb4246df8a

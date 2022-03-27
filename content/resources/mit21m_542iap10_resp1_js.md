@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c7502bbb-e093-ce34-0b30-a8f034a67883
 resourcetype: Document
 title: MIT21M_542IAP10_resp1_js.pdf
 uid: 5418d1d0-f5b4-73e8-ce4c-98e3bf870515

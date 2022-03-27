@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Classroom Sessions
 parent_type: CourseSection
+parent_uid: beb0121e-49cc-4d84-9e80-e5ef2dc34c75
 resourcetype: Document
 title: MIT21M_542IAP10_c10_ramo.pdf
 uid: 28c7a63c-5c1b-cd6c-aab5-071469455425

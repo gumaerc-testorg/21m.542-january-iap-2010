@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: "\_Presentation slides ([PDF](resources/mit21m_542iap10_
   \ sup \"#\" >}}"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 12: Student project presentation: "Notation and Time in Music"'
 uid: ca8c8d39-268f-7f12-9613-2623ccdf2bf6
 video_files:
