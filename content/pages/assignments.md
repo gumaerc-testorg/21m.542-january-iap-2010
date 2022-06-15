@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the written paper and presentation assignments,
+  and includes sample student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -64,13 +66,13 @@ FORUM & CONCERT RESPONSES
 Warren Chan
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp1_wc))
+({{% resource_link 8ed5b927-078f-00e5-1107-2af4f0357d17 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp2_wc))
+({{% resource_link 5c7a0ce9-4cf1-ec9b-3c84-f0c8be5e73d9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp3_wc))
+({{% resource_link 77105ec6-6621-8f87-13bf-b0cc2d48da72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,13 +81,13 @@ Warren Chan
 Jared Sadoian
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp1_js))
+({{% resource_link 5418d1d0-f5b4-73e8-ce4c-98e3bf870515 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp2_js))
+({{% resource_link 4797e833-efa8-370c-94f0-24689a665043 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_542iap10_resp3_js))
+({{% resource_link 9efba9bc-fbef-6b77-b9f6-072f252ade4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +136,7 @@ See the [Class 12]({{< baseurl >}}/pages/classroom-sessions/class-12) video
 "Current research on music & the brain" by anonymous MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_project2))
+Slides ({{% resource_link b8aaa335-3dba-23a2-1942-3459abf8cd6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

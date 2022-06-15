@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview, information on meeting
+  times, and the schedule of instructors, topics, and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

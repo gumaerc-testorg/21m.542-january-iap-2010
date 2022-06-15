@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section presents readings, listening, and supporting material for
+  the daily classroom sessions of the course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -87,7 +89,7 @@ Imbrie, Larsen, Crumb and Ravel
 
 {{< tdclose >}}
 {{< tdopen >}}
- See [Forums and Concerts]({{< baseurl >}}/video_galleries/forums-and-concerts) page
+ See {{% resource_link c69e6ceb-7d9d-74a5-dcbd-92abd28a8ce9 "Forums and Concerts" %}} page
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +175,7 @@ Beethoven, Child and Dvořák
 
 {{< tdclose >}}
 {{< tdopen >}}
- See [Forums and Concerts]({{< baseurl >}}/video_galleries/forums-and-concerts) page
+ See {{% resource_link c69e6ceb-7d9d-74a5-dcbd-92abd28a8ce9 "Forums and Concerts" %}} page
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +202,7 @@ C8
 Christopher Ariza (Visiting Professor of Music)
 {{< tdclose >}}
 {{< tdopen >}}
-Events per unit of time: density as a compositional parameter in the music and synthesis techniques of Iannis Xenakis ([PDF - 1.1MB](/courses/music-and-theater-arts/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/classroom-sessions/MIT21M_542IAP10_c8_ariza.pdf)) (Courtesy of Christopher Ariza. Used with permission.)
+Events per unit of time: density as a compositional parameter in the music and synthesis techniques of Iannis Xenakis ({{% resource_link 338aff91-a50c-f939-d785-7fe9ac4aec13 "PDF - 1.1MB" %}}) (Courtesy of Christopher Ariza. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -235,7 +237,7 @@ Deeper into Muybridge: a poet's view
 {{< tdopen >}}
 
 
-Two poems from Muybridge ([PDF](/courses/music-and-theater-arts/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/classroom-sessions/MIT21M_542IAP10_tap_poems.pdf))
+Two poems from Muybridge ({{% resource_link 9060c074-f5e3-28d4-5a4d-a7f2f8c1d0af "PDF" %}})
 
 Wikipedia: [Eadweard Muybridge](http://en.wikipedia.org/wiki/Eadweard_Muybridge)
 
@@ -264,7 +266,7 @@ Mozart, Loeffler, Still and Foss
 
 {{< tdclose >}}
 {{< tdopen >}}
- See [Forums and Concerts]({{< baseurl >}}/video_galleries/forums-and-concerts) page
+ See {{% resource_link c69e6ceb-7d9d-74a5-dcbd-92abd28a8ce9 "Forums and Concerts" %}} page
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,12 +283,12 @@ Time and structure in a film score for D. W. Griffith's _Ramona_ (1910) 
 {{< tdopen >}}
 
 
-Watch the [Class 10]({{< baseurl >}}/resources/class-10) video
+Watch the {{% resource_link 4f757301-1a04-4c6e-2fca-ebfb4246df8a "Class 10" %}} video
 
 This film with Shadle's score is released on  
 _Treasures III: Social Issues in American Film, 1900-1934._ DVD. National Film Preservation Foundation/Image Entertainment, 2007.
 
-Booklet notes from this DVD release, by Martin Marks. "Ramona (1910) -- About the Music." ([PDF](/courses/music-and-theater-arts/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/classroom-sessions/MIT21M_542IAP10_c10_ramo.pdf)) (Courtesy of the National Film Preservation Foundation. Used with permission.)
+Booklet notes from this DVD release, by Martin Marks. "Ramona (1910) -- About the Music." ({{% resource_link "28c7a63c-5c1b-cd6c-aab5-071469455425" "PDF" %}}) (Courtesy of the National Film Preservation Foundation. Used with permission.)
 
 
 {{< tdclose >}}
@@ -342,9 +344,9 @@ Student projects & performances
 {{< tdopen >}}
 
 
-Watch the [Class 12]({{< baseurl >}}/resources/class-12) video
+Watch the {{% resource_link ca8c8d39-268f-7f12-9613-2623ccdf2bf6 "Class 12" %}} video
 
-See [Assignments]({{< baseurl >}}/pages/assignments) page
+See {{% resource_link c7502bbb-e093-ce34-0b30-a8f034a67883 "Assignments" %}} page
 
 
 {{< tdclose >}}
@@ -367,7 +369,7 @@ Wrap-Up
 
 {{< tdclose >}}
 {{< tdopen >}}
-See [Assignments]({{< baseurl >}}/pages/assignments) page
+See {{% resource_link c7502bbb-e093-ce34-0b30-a8f034a67883 "Assignments" %}} page
 {{< tdclose >}}
 
 {{< trclose >}}

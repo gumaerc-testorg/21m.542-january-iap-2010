@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Classroom Sessions
@@ -29,4 +30,7 @@ Instructor: Charles Shadle (Senior Lecturer in Music)
 This film with Shadle's score is released on  
 _Treasures III: Social Issues in American Film, 1900-1934._ DVD. National Film Preservation Foundation/Image Entertainment, 2007.
 
-Booklet notes from this DVD release, by Martin Marks. "Ramona (1910) -- About the Music." ([PDF]({{< baseurl >}}/resources/mit21m_542iap10_c10_ramo-1)) (Courtesy of the National Film Preservation Foundation. Used with permission.)
+Booklet notes from this DVD release, by Martin Marks. "Ramona (1910) -- About the Music." ({{% resource_link 55efe975-92e7-722c-378f-69dea3342812 "PDF" %}}) (Courtesy of the National Film Preservation Foundation. Used with permission.)
+
+
+

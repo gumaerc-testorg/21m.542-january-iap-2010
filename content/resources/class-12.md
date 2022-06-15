@@ -4,11 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Classroom Sessions
 parent_type: CourseSection
-related_resources_text: "\_Presentation slides ([PDF](resources/mit21m_542iap10_proj_js)){{<\
+related_resources_text: "\_Presentation slides ([PDF](/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/resources/mit21m_542iap10_proj_js)){{<\
   \ sup \"#\" >}}"
 resource_index_text: ''
 resourcetype: Video
@@ -35,3 +36,6 @@ Individual presentations should last about 10-12 minutes. Teams can go longer, t
 On the day of the presentation, each student should hand in a 3-4 page write-up of the project and what it has revealed.
 
 Please choose a topic and submit your proposal online no later than 5 p.m after the fourth class session (C4). We will finalize the projects and presentation schedule by classtime the following day.
+
+
+

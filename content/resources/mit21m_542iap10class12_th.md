@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/ad4d99807339740e13c400bfd5f97d23_MIT21M_542IAP10class12_th.jpg
+file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/ad4d99807339740e13c400bfd5f97d23_MIT21M_542IAP10class12_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
