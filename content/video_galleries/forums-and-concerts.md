@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section presents videos, program notes, and supporting material
+  for the three concerts and pre-concert forum panel discussions of the course.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Forums and Concerts
 uid: c69e6ceb-7d9d-74a5-dcbd-92abd28a8ce9
 videos:
@@ -18,9 +22,9 @@ This page presents videos, audio recordings, program notes and supporting materi
 
 Program Notes
 
-*   "Living in Musical Time," an essay by Michael Cuthbert, with introduction by Marcus Thompson ([PDF](/courses/music-and-theater-arts/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/forums-and-concerts/MIT21M_542IAP10_con_essay.pdf)) (Courtesy of Michael Cuthbert. Used with permission.)
-*   Program notes for the concert events ([PDF](http://{{< baseurl >}}/resources/mit21m_542iap10_con_notes)) (Courtesy of Steven Ledbetter. Used with permission.)
-*   Forum panelist statements and biographies ([PDF](/courses/music-and-theater-arts/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/forums-and-concerts/MIT21M_542IAP10_for_panel.pdf)) (Courtesy of the panelists. Used with permission.)
+*   "Living in Musical Time," an essay by Michael Cuthbert, with introduction by Marcus Thompson ({{% resource_link e17d30ea-d66a-4d4d-17b9-69da9b1b2d0d "PDF" %}}) (Courtesy of Michael Cuthbert. Used with permission.)
+*   Program notes for the concert events ({{% resource_link "e98a2dde-c805-27d8-9842-7f962cbb89d1" "PDF" %}}) (Courtesy of Steven Ledbetter. Used with permission.)
+*   Forum panelist statements and biographies ({{% resource_link 420d8bb0-4067-c0ea-27c2-d44096f2e14b "PDF" %}}) (Courtesy of the panelists. Used with permission.)
 
 [Selected press reviews of the Musical Time forums and concerts](http://shass.mit.edu/news/news-2010-glowing-reviews-musical-time)
 

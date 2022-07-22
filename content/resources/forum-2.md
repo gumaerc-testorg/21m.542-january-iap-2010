@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Forums and Concerts
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Time as Memory
 uid: 5058fc04-2e2b-edc6-2ca2-9cb725d5f178
 video_files:
@@ -27,3 +38,4 @@ Jennifer Frautschi, violin; Harumi Rhodes, violin; Roger Tapping, viola; Marcus 
 
 Peter Child. _Skyscraper Symphony_.  
 Harumi Rhodes, violin; Jennifer Frautschi, violin; Marcus Thompson, viola; Andrew Mark, violincello
+

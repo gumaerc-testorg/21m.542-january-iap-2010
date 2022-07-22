@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Forums and Concerts
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Time as Shape
 uid: 257d6f8d-2ce1-7148-2d27-b95dce81113d
 video_files:
@@ -28,3 +39,4 @@ Ida Levin, violin; Astrid Schween, violincello; Randall Hodgkinson, piano
 
 George Crumb, _Eleven Echoes of Autumn_, 1965  
 Fenwick Smith, flute; Thomas Hill, clarinet; Ida Levin, violin; Randall Hodgkinson, piano
+
