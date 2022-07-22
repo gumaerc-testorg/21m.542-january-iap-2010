@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -36,6 +37,4 @@ Individual presentations should last about 10-12 minutes. Teams can go longer, t
 On the day of the presentation, each student should hand in a 3-4 page write-up of the project and what it has revealed.
 
 Please choose a topic and submit your proposal online no later than 5 p.m after the fourth class session (C4). We will finalize the projects and presentation schedule by classtime the following day.
-
-
 

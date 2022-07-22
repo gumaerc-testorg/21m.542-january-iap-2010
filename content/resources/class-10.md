@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ This film with Shadle's score is released on
 _Treasures III: Social Issues in American Film, 1900-1934._ DVD. National Film Preservation Foundation/Image Entertainment, 2007.
 
 Booklet notes from this DVD release, by Martin Marks. "Ramona (1910) -- About the Music." ({{% resource_link 55efe975-92e7-722c-378f-69dea3342812 "PDF" %}}) (Courtesy of the National Film Preservation Foundation. Used with permission.)
-
-
 

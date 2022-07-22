@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -38,6 +39,4 @@ Peggy Pearson, oboe; Harumi Rhodes, violin; Marcus Thompson, viola; Joshua Gordo
 
 Lukas Foss. "O Mensch, gib Acht," from _Time Cycle_.  
 Judith Kellock, soprano; Michael Norsworthy, clarinet; Joshua Gordon, violincello; Mihae Lee, celesta & piano; Robert Schulz, percussion
-
-
 

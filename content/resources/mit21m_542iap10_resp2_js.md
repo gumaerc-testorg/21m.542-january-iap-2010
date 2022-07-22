@@ -6,6 +6,7 @@ file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21M_542IAP10_resp2_js.pdf
 uid: 4797e833-efa8-370c-94f0-24689a665043
 ---
 This resource contains information related to kresge auditorium, cessation of time, “non-linear, temporal journey and ripples in a temporal. pond
-

@@ -6,6 +6,7 @@ file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21M_542IAP10_project2.pdf
 uid: b8aaa335-3dba-23a2-1942-3459abf8cd6d
 ---
 This resource contains a student project presentation of current research on music & the brain.
-

@@ -6,6 +6,7 @@ file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21M_542IAP10_resp3_js.pdf
 uid: 9efba9bc-fbef-6b77-b9f6-072f252ade4d
 ---
 This resource contains information related to deconstruction” of motion and time, muybridge and oboe quartet.
-

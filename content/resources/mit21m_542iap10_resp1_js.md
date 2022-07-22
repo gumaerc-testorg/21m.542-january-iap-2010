@@ -6,6 +6,7 @@ file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21M_542IAP10_resp1_js.pdf
 uid: 5418d1d0-f5b4-73e8-ce4c-98e3bf870515
 ---
 This resource contains information related to ravel’s passacaglia movement of his piano, “rubato and eleven echoes of autumn.
-

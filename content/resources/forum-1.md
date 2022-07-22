@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -38,6 +39,4 @@ Ida Levin, violin; Astrid Schween, violincello; Randall Hodgkinson, piano
 
 George Crumb, _Eleven Echoes of Autumn_, 1965  
 Fenwick Smith, flute; Thomas Hill, clarinet; Ida Levin, violin; Randall Hodgkinson, piano
-
-
 
