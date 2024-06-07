@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information related to metronome, foss\u2019\
   s time cycle and winter festival & forum series."
 file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/77105ec666218f8713bfb0cc2d48da72_MIT21M_542IAP10_resp3_wc.pdf
+file_size: 27946
 file_type: application/pdf
 learning_resource_types:
 - Assignments

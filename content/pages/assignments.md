@@ -127,7 +127,7 @@ PRESENTATIONs
 "Notation and Time in Music," by Jared Sadoian
 {{< tdclose >}}
 {{< tdopen >}}
-See the [Class 12]({{< baseurl >}}/pages/classroom-sessions/class-12) video
+See the {{% resource_link "ca8c8d39-268f-7f12-9613-2623ccdf2bf6" "Class 12" %}} video
 {{< tdclose >}}
 
 {{< trclose >}}
