@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a student project presentation of current research
   on music & the brain.
 file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/b8aaa3353dba23a219423459abf8cd6d_MIT21M_542IAP10_project2.pdf
+file_size: 421125
 file_type: application/pdf
 learning_resource_types:
 - Assignments
