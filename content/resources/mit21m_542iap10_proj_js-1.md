@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a student project presentation on notation and
   time in music.
-file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/c012e02b885665a31c01635c5201a67f_MIT21M_542IAP10_proj_js.pdf
+file: /ol-ocw-studio-app/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/c012e02b885665a31c01635c5201a67f_MIT21M_542IAP10_proj_js.pdf
 file_size: 821908
 file_type: application/pdf
 learning_resource_types:
