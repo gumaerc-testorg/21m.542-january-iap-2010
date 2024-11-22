@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to ravel\u2019s passacaglia\
   \ movement of his piano, \u201Crubato and eleven echoes of autumn."
-file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/5418d1d0f5b473e8ce4c98e3bf870515_MIT21M_542IAP10_resp1_js.pdf
+file: /ol-ocw-studio-app/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/5418d1d0f5b473e8ce4c98e3bf870515_MIT21M_542IAP10_resp1_js.pdf
 file_size: 254701
 file_type: application/pdf
 learning_resource_types:
