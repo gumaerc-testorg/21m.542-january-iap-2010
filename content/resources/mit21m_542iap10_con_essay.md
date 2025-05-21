@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to  paintings of o\u2019\
   keeffe, lewis lockwood, libby larsen and peter child.\r\nLockwood"
-file: /ol-ocw-studio-app/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/e17d30ead66a4d4d17b969da9b1b2d0d_MIT21M_542IAP10_con_essay.pdf
+file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/e17d30ead66a4d4d17b969da9b1b2d0d_MIT21M_542IAP10_con_essay.pdf
 file_size: 822699
 file_type: application/pdf
 learning_resource_types: []
