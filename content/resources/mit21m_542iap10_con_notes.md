@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/e98a2ddec80527d898427f962cbb89d1_MIT21M_542IAP10_con_notes.pdf
+file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/e98a2ddec80527d898427f962cbb89d1_MIT21M_542IAP10_con_notes.pdf
 file_size: 461976
 file_type: application/pdf
 learning_resource_types: []

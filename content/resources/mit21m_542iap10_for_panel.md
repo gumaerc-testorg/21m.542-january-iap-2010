@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to winter series panelists.
-file: /ol-ocw-studio-app/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/420d8bb04067c0ea27c2d44096f2e14b_MIT21M_542IAP10_for_panel.pdf
+file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/420d8bb04067c0ea27c2d44096f2e14b_MIT21M_542IAP10_for_panel.pdf
 file_size: 536747
 file_type: application/pdf
 learning_resource_types: []
