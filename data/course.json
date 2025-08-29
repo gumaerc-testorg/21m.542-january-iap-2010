@@ -46,11 +46,12 @@
   "learning_resource_types": [
     "Other Video",
     "Lecture Videos",
-    "Music",
+    "Music Audio",
     "Written Assignments with Examples",
     "Presentation Assignments with Examples"
   ],
   "site_uid": "709510b2-df38-4cb8-9b27-72cc2910111a",
   "site_short_id": "21m.542-january-iap-2010",
+  "site_url_path": "courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010",
   "title": "Course Metadata"
 }
