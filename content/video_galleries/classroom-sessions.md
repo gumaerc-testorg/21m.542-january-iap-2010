@@ -73,7 +73,7 @@ Paul Schechter (Professor of Astrophysics)
 {{< tdclose >}}{{< tdopen >}}
 A physicist's understanding of the concept of spacetime
 {{< tdclose >}}{{< tdopen >}}
-Greene, Brian. *The Fabric of the Cosmos: Space, Time, and the Texture of Reality*. New York, NY: Vintage, 2005. ISBN: 9780375727207. \[Preview in \[Google Books\]([http://books.google.com/books?id=yZujlUD1oAAC&pg=Pafrontcover](http://books.google.com/books?id=yZujlUD1oAAC&pg=Pafrontcover)  
+Greene, Brian. *The Fabric of the Cosmos: Space, Time, and the Texture of Reality*. New York, NY: Vintage, 2005. ISBN: 9780375727207. \[Preview in \[Google Books\]({{% resource_link "6cbb1012-3f85-44df-9d1d-d3d727589b88" "http://books.google.com/books?id=yZujlUD1oAAC&pg=Pafrontcover" %}}  
 )\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C5
@@ -90,7 +90,7 @@ Donald Sadoway (Professor of Materials Science and Engineering)
 {{< tdclose >}}{{< tdopen >}}
 'Everything I needed to know I learned in 3.091' - using art, literature, music, and film to teach chemistry
 {{< tdclose >}}{{< tdopen >}}
-This talk was similar to one given at the MIT Alumni Association's 2010 Technology Day; see this [MIT World video](http://techtv.mit.edu/videos/16682-innovation-in-energy-storage-what-i-learned-in-3-091-was-all-i-needed-to-know) starting at ~15:00, after the discussion about energy and batteries.
+This talk was similar to one given at the MIT Alumni Association's 2010 Technology Day; see this {{% resource_link "842dc066-1a0a-4075-9367-274a88350209" "MIT World video" %}} starting at ~15:00, after the discussion about energy and batteries.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 E2
 {{< tdclose >}}{{< tdopen >}}
@@ -129,7 +129,7 @@ Events per unit of time: density as a compositional parameter in the music and s
 
 Roads, Curtis. "Now." *Point Line Cloud. Asphodel Ltd*., 2004. (Courtesy of Curtis Roads. Used with permission.)
 
-- Internet Archive ([MP3 - 14MB](http://www.archive.org/download/MIT21M.380F08/lisn21_roads.mp3))
+- Internet Archive ({{% resource_link "d75dda8b-adc5-4a7e-a97c-a4a392e82d78" "MP3 - 14MB" %}})
 
 ### Recommended readings
 
@@ -145,7 +145,7 @@ Deeper into Muybridge: a poet's view
 
 Two poems from Muybridge ({{% resource_link "9060c074-f5e3-28d4-5a4d-a7f2f8c1d0af" "PDF" %}})
 
-Wikipedia: [Eadweard Muybridge](http://en.wikipedia.org/wiki/Eadweard_Muybridge)
+Wikipedia: {{% resource_link "cece2fac-b021-41a7-9e9e-b455f154585e" "Eadweard Muybridge" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 E3
@@ -192,12 +192,12 @@ Time as defined, steady, organizing principle: Duke Ellington. "Satin Doll." *70
 
 Time as more free, elastic: Miles Davis Quartet. "My Funny Valentine." *The Complete Concert 1964: My Funny Valentine + Four & More*. Columbia, 1992 reissue.
 
-Time as a medium in which composition / improvisation happens: Harvey, Mark. "Rapt at Rappaport's." Aardvark Jazz Orchestra. [*Paintings for Jazz Orchestra*](https://www.discogs.com/Mark-Harvey-8-the-Aardvark-Jazz-Orchestra-Paintings-For-Jazz-Orchestra/release/2634859). Leo Records, 1993.
+Time as a medium in which composition / improvisation happens: Harvey, Mark. "Rapt at Rappaport's." Aardvark Jazz Orchestra. {{% resource_link "bb97242e-b800-4bcb-889f-8b30e028f1f5" "*Paintings for Jazz Orchestra*" %}}. Leo Records, 1993.
 
 Time in several senses,used simultaneously, steady + multi-meter + conducted improvisation: "The Seeker." Aardvark Jazz Orchestra. Recorded live at Regattabar, Cambridge MA, March 21, 2001. (Courtesy of Mark Harvey. Used with permission.)
 
-- Internet Archive ([MP3 - 16MB](http://www.archive.org/download/MIT21M.342F08/mit-21m.432-f08-seeker_aardvark.mp3))
-- Alternate recording: Aardvark Jazz Orchestra. [*The Seeker*](https://www.discogs.com/The-Aardvark-Jazz-Orchestra-The-Seeker/release/3344445). Leo Records, 2000.
+- Internet Archive ({{% resource_link "3e75e90e-dd8a-4105-879e-4f264aad875d" "MP3 - 16MB" %}})
+- Alternate recording: Aardvark Jazz Orchestra. {{% resource_link "b3cc7bba-1d1f-4916-8452-623d50abd58d" "*The Seeker*" %}}. Leo Records, 2000.
 
 ### Recommended Readings
 
