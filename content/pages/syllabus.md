@@ -30,7 +30,7 @@ This course is an interdisciplinary exploration of three broad themes concerning
 
 ### Concerts and Forums
 
-The concerts by the {{% resource_link "88e9f7f8-74c2-4d06-8d91-59fb97358072" "Boston Chamber Music Society" %}} (BCMS) commingle works by great composers of the past (e.g., Beethoven and Dvorak) and contemporary composers (e.g., Libby Larsen and MIT professor Peter Child).
+The concerts by the [Boston Chamber Music Society](http://www.bostonchambermusic.org/) (BCMS) commingle works by great composers of the past (e.g., Beethoven and Dvorak) and contemporary composers (e.g., Libby Larsen and MIT professor Peter Child).
 
 The three pre-concert forums bring together experts from various disciplines within MIT and elsewhere, to talk about the concerts in relation to the three themes. The exploration is both multi-media and interdisciplinary across the arts and sciences, using projections of film, painting, sculpture, and poetry. Panelists on each forum will discuss on their own work and the music of the evening. BCMS musicians will be on hand to demonstrate and discuss aspects of the music.
 
